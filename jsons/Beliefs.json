@@ -1,0 +1,72 @@
+[
+    // ── PANTHEON ──
+    {
+        "name": "Tawhid",
+        "type": "Pantheon",
+        "uniques": [
+            "[+2 Faith] from every [Shrine]",
+            "[+1 Happiness] from every [Shrine]",
+            "[+1 Culture] from every [Shrine]"
+        ],
+        "civilopediaText": [
+            {"text": "The absolute oneness of God — the foundation upon which all else rests. Where this conviction takes root, devotion, contentment, and learning flourish together."}
+        ]
+    },
+
+    // ── FOUNDER ──
+    {
+        "name": "Zakat",
+        "type": "Founder",
+        "uniques": [
+            "[+2 Gold] for each global city following this religion",
+            "[+1 Happiness] for each global city following this religion"
+        ],
+        "civilopediaText": [
+            {"text": "Obligatory almsgiving purifies wealth and circulates prosperity. Each community of believers contributes to the welfare of the whole."}
+        ]
+    },
+
+    // ── FOLLOWER 1 ──
+    {
+        "name": "Five Pillars",
+        "type": "Follower",
+        "uniques": [
+            "May buy [Mosque] buildings for [200] [Faith] [in all cities] at an increasing price ([100])",
+            "[+2 Food] from every [Mosque]",
+            "[+1 Happiness] from every [Mosque]",
+            "[+1 Culture] from every [Mosque]"
+        ],
+        "civilopediaText": [
+            {"text": "Shahada, Salah, Zakat, Sawm, Hajj — the five obligations that structure a Muslim's life. The masjid stands at the heart of each community, and where all five pillars are practised, it flourishes in body, spirit, and purpose."}
+        ]
+    },
+
+    // ── FOLLOWER 2 ──
+    {
+        "name": "Bayt al-Hikmah",
+        "type": "Follower",
+        "uniques": [
+            "[+3 Science] from every [Mosque]",
+            "[+1 Faith] from every [Mosque]",
+            "[+2 Science] from every [Library]",
+            "[+1 Culture] from every [Library]"
+        ],
+        "civilopediaText": [
+            {"text": "The House of Wisdom in Baghdad was merely the most famous of countless centres of Islamic scholarship. The pursuit of knowledge is an obligation upon every Muslim — and the masjid its first classroom."}
+        ]
+    },
+
+    // ── ENHANCER ──
+    {
+        "name": "Da'wah",
+        "type": "Enhancer",
+        "uniques": [
+            "[+25]% Spread of religion to cities",
+            "[+1 Faith] for each global city following this religion",
+            "[+1 Happiness] for each global city following this religion"
+        ],
+        "civilopediaText": [
+            {"text": "The invitation to Islam spreads not by compulsion but by witness and example. As each community embraces the message, the bonds of the ummah strengthen."}
+        ]
+    }
+]
